@@ -23,7 +23,7 @@ export const projects = [
     description:
       "A full stack water monitoring dashboard built using React and Node.js to track and visualize water-related data in a structured and user-friendly interface.",
     tech: ["React", "Node.js", "CSS", "JavaScript"],
-    github: "https://github.com/abhinav-a0/water-dashboard-system",
+    github: "https://github.com/abhinav-a0/water_dashboard_final",
   },
   {
     title: "Disk Monitoring System",
