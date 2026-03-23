@@ -37,7 +37,7 @@ export const projects = [
     description:
       "A responsive job portal interface that allows users to explore job listings and interact with a clean and modern UI.",
     tech: ["HTML", "JavaScript", "CSS","Responsive UI"],
-    github: "https://github.com/abhinav-a0/job-portal",
+    github: "https://github.com/abhinav-a0/Job-portal.",
   },
 ];
 
